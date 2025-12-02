@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MishkaNadine
 - 👀 I’m interested in programming as a whole and learning new languages as I go
-- 🌱 I’m currently learning python and thinking of exploring C#
+- 🌱 I’m currently making use of various languages, and working with C#, MVCFront development and exploring flutter.
 - 💞️ I’m happy to help with collaboration on any project.
 - 📫 You can reach me via email, mishkanadinehartzenberg@gmail.com
 
